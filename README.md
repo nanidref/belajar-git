@@ -1,4 +1,4 @@
 # belajar-git
 
 
-Nama: Mulia Nasution
+Nama: Mulia Arifandi Nasution
