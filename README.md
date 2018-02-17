@@ -2,7 +2,6 @@
 
 #Hello KKR
 
-Nama: Mulia Nasution
+Nama: Mulia Arifandi Nasution
 
 Nama: Chiputera
-
